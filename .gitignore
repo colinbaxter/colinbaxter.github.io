@@ -1,0 +1,31 @@
+# Files that Git should ignore in this source directory.
+
+*~
+.#*
+\#*\#
+*.aux
+*.bbl
+*.blg
+# *.css
+*.dat
+*.dvi
+*.end
+# *.gif
+*.glo
+*.gpg
+*.gz
+*.htm
+*.ist
+*.lof
+*.log
+*.lot
+*.odt
+*.old
+*.org
+*.out
+*.php
+*.rel
+*.tar
+*.tex
+*.toc
+*.txt
